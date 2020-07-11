@@ -31,7 +31,6 @@ winning_county = ""
 winning_county_count = 0
 winning_county_percentage = 0
 
-
 # Read the csv and convert it into a list of dictionaries
 with open(file_to_load) as election_data:
     reader = csv.reader(election_data)
