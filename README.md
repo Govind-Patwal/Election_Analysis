@@ -113,5 +113,14 @@ Percentage of total votes cast for Diana: 73.8%
 ```
 
 ## Election-Audit Summary 
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+This script is quite robust and can be used for any election where we have a dataset in a similar format.
+Having said that, if we have some more data, we can easily modify the script to provide more insights.
+1.	If the total number of voters in each of these counties is provided, we can modify the script to return the voter turnout in each county.
+2.	If the demographic data of the voters is provided in each row, we can modify the script to see
+
+    (a) What was the popularity of different candidates among each group?
+
+    (b) What was the demographic breakdown of each candidate?
+
+    (c) We can also add the dimension of a county, say how many people from a group X from a county Y voted for a candidate Z.
+3.	If the voting time of the voters is captured in each row, we can modify the script to see the co-relation of time/day to the voting pattern of people. Over time, seasonality in the voter turnout can also be analyzed. The commission can use this analysis to choose dates/days with probability of higher voter turnout.
