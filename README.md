@@ -51,7 +51,7 @@ Below are the steps that were undertaken
 
     (6f) Write a decision statement that determines the county with the largest vote count and then adds that county and its vote count to the variables created in Step 2.
     
-        if (county_total_votes > winning_county_count) and      (county_vote_percentage > winning_county_percentage):
+        if (county_total_votes > winning_county_count) and (county_vote_percentage > winning_county_percentage):
             winning_county_count = county_total_votes
             winning_county = county_name
             winning_county_percentage = county_vote_percentage 
