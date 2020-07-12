@@ -96,7 +96,7 @@ County 3: Arapahoe: 6.7% (24,801)
 * Which county had the largest number of votes?
 
 ```
-The county with the the largest number of votes was Denver (306,055 votes).
+The county that had the largest number of votes was Denver (306,055 votes).
 ```
 * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 ```
