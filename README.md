@@ -73,11 +73,11 @@ Below are the steps that were undertaken
 
 Image 1 (below): Output on the Terminal/Command line
 
-![Terminal_Output_Election_Analysis](./analysis/Terminal_Output_Election_Analysis.PNG)
+![Terminal_Output_Election_Analysis](./analysis/Terminal_Output_Election_Analysis.png)
 
 Image 2 (below): Output on the Txt file
 
-![Terminal_Output_Election_Analysis](./analysis/Txt_Output_Election_Analysis.PNG)
+![Terminal_Output_Election_Analysis](./analysis/Txt_Output_Election_Analysis.png)
 
 * How many votes were cast in this congressional election?
 
