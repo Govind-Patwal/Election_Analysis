@@ -70,15 +70,47 @@ Below are the steps that were undertaken
 `txt_file.write(winning_county_summary)`
 
 ## Election-Audit Results
-There is a bulleted list where each election outcome is addressed. (7 pt)
-Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+
+Image 1 (below): Output on the Terminal/Command line
+
+![Terminal_Output_Election_Analysis](./analysis/Terminal_Output_Election_Analysis.PNG)
+
+Image 2 (below): Output on the Txt file
+
+![Terminal_Output_Election_Analysis](./analysis/Txt_Output_Election_Analysis.PNG)
 
 * How many votes were cast in this congressional election?
-* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-* Which county had the largest number of votes?
-* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+```
+A total of 369,711 votes were cast in the congressional elections
+```
+
+* Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+```
+County 1: Jefferson: 10.5% (38,855)
+County 2: Denver: 82.8% (306,055)
+County 3: Arapahoe: 6.7% (24,801)
+```
+
+* Which county had the largest number of votes?
+
+```
+Denver: 306,055 votes
+```
+* Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+```
+Candidate 1. Charles Casper Stockham: 23.0% (85,213)
+Candidate 2. Diana DeGette: 73.8% (272,892)
+Candidate 3. Raymon Anthony Doane: 3.1% (11,606)
+```
+
+* Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+```
+Winner of the election: Diana DeGette
+Total Votes Cast for Diana: 272,892
+Percentage of total votes cast for Diana: 73.8%
+```
 
 ## Election-Audit Summary 
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. (4 pt)
