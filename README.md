@@ -3,7 +3,7 @@
 ## Project Overview
 I have been tasked to help Tom, a Colorado Board of Elections employee, in an election audit of the tabulated results for a ***US Congressional precinct in Colorado***. 
 
-I will have to use Python to extract and analyze data from the election results CSV file. 
+I have to use Python to extract and analyze data from the election results CSV file. 
 
 ## Purpose
 
